@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/thealchemist/Documents/Assignments/interquiz/env/bin/python3.8",
+    "python.formatting.provider": "black"
+}
